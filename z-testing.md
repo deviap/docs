@@ -5,6 +5,15 @@ published: true
 tags: 
 ---
 
+:::row
+::::col
+jeff1
+::::
+::::col
+jeff2
+::::
+:::
+
 :::spoiler
 This is a *spoiler*
 :::
