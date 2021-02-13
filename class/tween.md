@@ -1,9 +1,3 @@
----
-title: tween
-description: Documentation of tween class.
-published: true
-tags: 
----
 
 ## Purpose
 
