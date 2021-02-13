@@ -1,7 +1,7 @@
 ---
 title: Home
 description: The Deviap docs contain all of our documentation and tutorials and provide a brillaint starting point if you're just getting to grips with our platform, and an excellent reference if you're an experienced user.
-published: true
+published: false
 editorNotes: This file is resurfaced in the main index page and is integrated with hardcoded content.
 tags: 
 ---
