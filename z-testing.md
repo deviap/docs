@@ -13,7 +13,7 @@ This is a *spoiler*
 This is a *alert*
 :::
 
-:::alert test
+:::alert {.bg-danger}
 This is a *alert test*
 :::
 
